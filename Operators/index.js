@@ -65,6 +65,7 @@ var y=x
 // console.log(creditcard)
 
 //2)or operator
+let name="roja"
 var income=false
 var cibil=false
 // var hdfccreditcard=income||cibil
