@@ -43,6 +43,7 @@
 // var x=[]
 // var y=[]
 var x=[1,2,3]
+
 var y=x
 //2)Equality operators
 // console.log(x==y)//loose equality(it compares only value)
